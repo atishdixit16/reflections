@@ -1,2 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
-When you initialize a repository, a .git (hidden file) gets created in cd. I believe we need to do it so that we can track all the commits henceforth through this .git gile.
+When you initialize a repository, a .git (hidden file) gets created in cd. I believe we need to do it so that we can track all the commits henceforth through this .git file.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+As the name suggest, the staging area can be looked as a stage where perticular files of the working directory can be kept so as to track them. And any commits that took place through staging area are stored in repository (.git file).
+
+XX
