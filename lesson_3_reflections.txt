@@ -12,3 +12,6 @@ We can easily identify the changes made by other collaborators. No mix up of com
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Using pull request and commits on GitHub is easier and better way at it. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+when we are exprimenting or testing new feature, sapeate branch should be used. For simple changes in code direct msater branch changes are preferable.
