@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repository, a .git (hidden file) gets created in cd. I believe we need to do it so that we can track all the commits henceforth through this .git gile.

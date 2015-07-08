@@ -1,0 +1,26 @@
+How did viewing a FC between two versions of a file help you see the bug that was introduced?
+It gives directly the places where the changes in the files exists. I think while upgrading/changing the codes, it will be very helpful.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+We will be easily able to ponder upon all the updates done so far easily. We will also get to learn in what flow our code/text is changing/orienting.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+Pros: 
+1. No clutter, you save when you want
+2. You can decide your own commit size
+3. Better view towards the development of the code in the way we worked on it
+Cons:
+Opposite to above
+Sometimes changes that doesn't really matter will appear in the version change and might cause confusion
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separate?
+Git uses helping the version control for application that includes multiple inter-related codes. This is not the case for likes of Google docs.
+
+How can you use the commands git log and git diff to view the history of files?
+We can see various commits and the chages done for each. Color-coding makes it easy to identify added/removed lines in each commit. In git log command, down arrow key is to be used to scroll down and 'q' to quit the list.
+
+How might using version control make you more confident to make changes that could break something?
+We can be pretty confident and experimentive since we know that anytime we can go back to previous commit and undo if any break happens.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I can use it to start creating my own codes through git only. The commits will be saved intermediately and retrived accrdingly if needed.
