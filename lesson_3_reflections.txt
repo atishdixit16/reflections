@@ -3,3 +3,6 @@ In the cases where I want to share it with other people who are working on the s
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 remote may consists of commits made by others which are not neccessarily desirable to you. If auto up-to-date started working it might bring changes into your repositoy and may disturb your work on local system.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is clone in the GitHub. Clone is copying the repository either from GitHub to local or local to local. Branch is a series of commits.
